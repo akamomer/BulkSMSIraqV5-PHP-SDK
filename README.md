@@ -14,6 +14,9 @@ composer require akamomer/bulksmsiraq-sdk-v5
 
 ```php
 <?php
+require 'vendor/autoload.php';
+use BulkSMSIraq\BulkSmsIraqApiClient;
+
 // Example Usage
 // NOTE: Replace 'YOUR_API_KEY_HERE' with your actual API key.
 // The recipient and senderId are example values from your Postman collection.
