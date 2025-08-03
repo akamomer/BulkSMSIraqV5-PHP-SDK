@@ -1,6 +1,6 @@
 # BulkSMSIraq PHP SDK (V5)
 
-BulkSMSIraq.com provides powerful OTP services via WhatsApp, SMS, and Telegram using a simple API.
+BulkSMSIraq.com offers a robust and reliable OTP (One-Time Password) API solution tailored for businesses and developers in Iraq. Our platform enables fast and secure delivery of OTPs via WhatsApp, SMS, and Telegram, making it ideal for user verification, two-factor authentication (2FA), and transactional messaging. Whether you need an Iraq WhatsApp OTP API, a bulk SMS OTP gateway, or a fallback-enabled verification flow, BulkSMSIraq’s API is built to scale. Developers can easily integrate our RESTful API using PHP or any modern tech stack to send custom or auto-generated OTP codes, verify user responses, manage fallback channels (e.g., WhatsApp to SMS or Telegram), and deliver templated WhatsApp messages. With high delivery rates, multilingual support (English, Arabic, Kurdish), and low latency, BulkSMSIraq.com is the go-to solution for secure identity verification across Iraq.
 
 ## Installation
 
